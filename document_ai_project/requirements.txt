@@ -1,0 +1,8 @@
+django
+chromadb==0.4.15
+openai
+pytesseract
+Pillow
+python-dotenv
+djangorestframework
+pytest-django
